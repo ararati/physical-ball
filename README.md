@@ -12,5 +12,8 @@ $ git clone https://github.com/ararati/physical-ball
 or
 [Download zip archive](https://github.com/ararati/physical-ball/archive/master.zip)
 
+## Demo
+Demo of this project also located here: [Demo](https://ararati.github.io/physical-ball/examples/)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/ararati/physical-ball/blob/master/LICENSE.txt) file for details
